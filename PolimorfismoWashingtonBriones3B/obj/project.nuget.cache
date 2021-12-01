@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C85UetEmwEN8f7C2x9F8wx1w8d1pUHGqwoIDgRH8hwPv7CHfHpn/UrSh7a6N/VTYkyvVOnTJGf/9YB7G/isz2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabia\\source\\repos\\PolimorfismoWashingtonBriones3B\\PolimorfismoWashingtonBriones3B\\PolimorfismoWashingtonBriones3B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
